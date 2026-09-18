@@ -40,3 +40,15 @@ a:hover {
     text-transform: uppercase;
     letter-spacing: 2px;
 }
+.navigation_bar {
+    background-color: gray;
+}
+
+.navigation_bar a {
+    color: white;
+    margin-right: 10px;
+}
+
+.navigation_bar a:hover {
+    color: yellow;
+}
