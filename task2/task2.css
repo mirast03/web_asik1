@@ -1,0 +1,40 @@
+body {
+    font-family: Arial, sans-serif;
+}
+
+.header {
+    background-color: lightblue;
+}
+
+.navigation_bar {
+    background-color: gray;
+}
+
+.navigation_bar a {
+    color: white;
+    margin-right: 10px;
+}
+
+.navigation_bar a:hover {
+    color: yellow;
+}
+
+.sidebar {
+    float: left;
+    width: 25%;
+    background-color: lightgray;
+    border: 1px solid black;
+}
+
+.main_content {
+    float: right;
+    width: 70%;
+    background-color: white;
+    border: 1px solid black;
+}
+
+.footer {
+    clear: both;
+    background-color: gray;
+    color: white;
+}
